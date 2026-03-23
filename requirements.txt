@@ -1,0 +1,6 @@
+ultralytics==8.4.23
+albumentationsx==2.1.0
+scikit-learn==1.8.0
+umap-learn==0.5.11
+fiftyone==1.13.4
+mlflow==3.10.1

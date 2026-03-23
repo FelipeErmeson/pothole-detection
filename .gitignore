@@ -1,0 +1,7 @@
+data/*
+.vscode/
+runs/
+utils/__pycache__/
+
+mlflow.db
+notebooks/yolo26n.pt
