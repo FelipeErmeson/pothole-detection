@@ -26,7 +26,7 @@ delimitadora com muita precisão geométrica.
 * Dá pra usar em um mapeamento geral. Porém para um carro autônomo ainda é muito perigoso.
 
 ## Predição
-Para realizar a predição em um conjunto de dados, certifique-se de estar no padrão **YOLO 26**.
+Para realizar a predição em um conjunto de dados, certifique-se do conjunto de dados estar no padrão **YOLO 26**.
 
 Para executar a predição em um conjunto de dados, execute:
 ```python prediction.py isdataset True --path-yaml caminho/arquivo.yaml```
@@ -37,7 +37,7 @@ Para executar a predição em apenas uma imagem, execute:
 ## Estrutura de Arquivos
 
 ```
-face-key/
+pothole-detection/
 ├── README.md                                    (este arquivo)
 ├── notebooks/                                   (pasta de notebooks para experimentos/testes)
 ├   ├── viz-augmentation.ipynb                   (Responsável por mostrar como estão ficando as imagens aumentadas)

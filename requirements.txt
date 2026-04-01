@@ -4,3 +4,4 @@ scikit-learn==1.8.0
 umap-learn==0.5.11
 fiftyone==1.13.4
 mlflow==3.10.1
+ipykernel==7.2.0
